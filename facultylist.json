@@ -1,0 +1,108 @@
+[
+    { 
+        "Name": "Dr. Meeravali Shaikh" , "Degree": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)" , "Qualification":"HOD", "Experience" : "13 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image1.jpeg"
+    
+    },
+   
+    {
+       "Name": "Dr.Arun Singh Chouhan", "Degree": "B.E (CSE), M. Tech (CSE), Ph. D (CSE)" , "Qualification":"Associate Professor", "Experience" : "15 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image2.jpg"
+     },
+     
+     {
+       "Name": "Dr.M.Narayanan", "Degree": "B.E (CSE), M.E(CSE), Ph. D (CSE)" , "Qualification":"Professor", "Experience" : "17 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image3.jpg" 
+     },
+     
+     {
+        "Name": "Dr.P.Rambabu", "Degree": "B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing)" , "Qualification":"Professor", "Experience" : "20 Years (Industry), 13 Years (Teaching)", "Image":"https://mundrikatejasri.github.io/2211CS010389/image4.jpg" 
+     }, 
+  
+     {
+       "Name": "Dr.M.Ravikanth", "Degree": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)" , "Qualification":" Associate Professor", "Experience" : "17 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image5.jpg"
+     },
+    
+     {
+       "Name": "Dr.T. Phanindra", "Degree": "B. Tech (EEE), M. Tech (EEE), Ph. D (EEE)" , "Qualification":" Associate Professor", "Experience" : "12 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image6.jpg"
+      },
+
+     {
+       "Name": "Dr.B.Jogeswara Rao", "Degree": "MSc (Comp), M. Tech (CSE), Ph. D (CSE)" , "Qualification":" Associate Professor", "Experience" : "13 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image7.jpg"
+      },
+    
+     {
+        "Name": "Dr.M.Santhosh Kumar Goud", "Degree": "B.Tech (EEE), MS(Photonics), Ph. D (EEE)" , "Qualification":" Assistant Professor", "Experience" : "13 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image8.jpg"
+      },
+
+      {
+        "Name": "Dr.P. Aurchana ", "Degree": "MCA, M. Tech (CSE), Ph. D (CSE)" , "Qualification":" Assistant Professor", "Experience" : "7 Years (Teaching), 4 Years (Full Ph.D)", "Image":"https://mundrikatejasri.github.io/2211CS010389/image9.jpg"
+      },
+
+      {
+         "Name": "Mr. Naveen Kumar Navuri", "Degree": "B. Tech(IT), M. Tech (CSE), Ph.D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "13 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image10.jpg"
+      },
+     
+      {
+         "Name": "Mr. G. Raju", "Degree": "MCA, M. Tech (CSE), Ph. D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "13 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image11.jpg"
+       },
+
+      {
+        "Name": "Mr.M.Krishna Kishore", "Degree": "B. Tech(IT), M. Tech (CSE), Ph.D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "12 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image12.jpg" 
+      },
+
+      {
+        "Name": "Mrs.D.Suneetha ", "Degree": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "10 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image13.jpg" 
+      },
+
+      {
+        
+        "Name": "T.Indira Priyadarshini", "Degree": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)" , "Qualification":" Assistant Professor", "Experience" : " 9.5 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image14.jpg" 
+      },
+      
+      {
+        
+        "Name": "Mrs. P.Sabitha ", "Degree": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "6.5 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image15.jpg" 
+      },
+
+      {
+         
+        "Name": "Mrs. B. Tejaswi ", "Degree": "B. Tech (CSE), M. Tech (CNIS), Ph. D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "10 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image16.jpg"
+       },
+
+       {
+          "Name": "Mr. T.Srajan Kumar ", "Degree": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "9 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image17.jpg"
+       },
+
+       {
+         "Name": "Mr.N.V.Krishna Rao ", "Degree": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing" , "Qualification":" Assistant Professor", "Experience" : "21 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image18.jpg"
+       },
+     
+       {
+         
+         "Name": "Mrs. P.Shyamala ", "Degree": "M. Tech  (CSE),  MCA" , "Qualification":" Assistant Professor", "Experience" : "17 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image19.jpg"
+       },
+
+       {
+          
+         "Name": "Mr. M.Gouthamm", "Degree": "B. Tech (CSE), M. Tech (CSE)" , "Qualification":" Assistant Professor", "Experience" : "9 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image20.jpeg"
+       }, 
+
+       {
+         "Name": "M.Mounika", "Degree": "B. Tech (CSIT), M. Tech (CSE)" , "Qualification":" Assistant Professor", "Experience" : "10 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image21.jpeg"
+       },
+
+       {
+         "Name": "Mrs.S.Monika", "Degree": "B. E (CSE), M.E (CSE)" , "Qualification":" Assistant Professor", "Experience" : "8.8 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image22.jpeg"
+       },
+
+       {
+         "Name": "Mrs.S.Sowmya", "Degree": " B. Tech (CSIT), MS (CSIT)" , "Qualification":" Assistant Professor", "Experience" : "6 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image23.jpeg"
+       },
+
+        {
+          "Name": "Mrs.K. Manasa", "Degree": " B. Tech (CSE), M. Tech(CSE)" , "Qualification":" Assistant Professor", "Experience" : "3.5 Years", "Image":"https://mundrikatejasri.github.io/2211CS010389/image24.jpeg"
+       },
+
+        {
+          "Name": "Mr. G. Kishore Kumar", "Degree": " B. Tech (EEE), M. Tech(EEE)" , "Qualification":" Assistant Professor", "Image":"https://mundrikatejasri.github.io/2211CS010389/image25.jpeg"
+       }
+
+]
